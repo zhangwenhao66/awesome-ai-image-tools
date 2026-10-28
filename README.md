@@ -21,6 +21,8 @@ Try it now at 👉 **[www.mediaai.art](https://www.mediaai.art)**
 
 ## 🧰 Other Useful AI Tools
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 Here are other awesome tools you might find useful:
 
 | Tool Name | Description | Link |
